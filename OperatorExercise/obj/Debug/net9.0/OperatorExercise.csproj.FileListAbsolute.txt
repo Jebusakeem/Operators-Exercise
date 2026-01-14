@@ -1,0 +1,15 @@
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfo.cs
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.sourcelink.json
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.deps.json
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.runtimeconfig.json
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.dll
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.pdb
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.dll
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/refint/OperatorExercise.dll
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.pdb
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.genruntimeconfig.cache
+/Users/briungreene/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/ref/OperatorExercise.dll
